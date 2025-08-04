@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🎓 Currently pursuing my studies in VIT
 - 🚀 Enthusiastic about leveraging technology for Artifical Intelligence and Machine Learning
 - 📚 Active contributor to open-source projects.
-- 🌐 Check out my portfolio: [https://manas-gpt.github.io/Portfolio/](https://manas-gpt.github.io/)
+- 🌐 Check out my portfolio: [https://manas-gpt.github.io](https://manas-gpt.github.io/)
 
 ## 🔧 Technologies & Tools
 
@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - 📧 Email: manasgpt123@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/manas-gupta-773938251
-- 🌐 Portfolio: [https://manas-gpt.github.io/Portfolio/](https://manas-gpt.github.io/)
+- 🌐 Portfolio: [https://manas-gpt.github.io](https://manas-gpt.github.io/)
 
 Feel free to explore my repositories and connect with me for collaborations or discussions!
