@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📫 Let's Connect
 
-- 📧 Email: manasgpt123@gmail.com
+- 📧 Email: devmanas2004@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/manas-gupta-773938251
 - 🌐 Portfolio: [https://manas-gpt.github.io](https://manas-gpt.github.io/)
 
